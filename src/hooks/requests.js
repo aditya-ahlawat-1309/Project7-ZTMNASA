@@ -1,4 +1,4 @@
-const API_URL = "https://ztm-nasa.herokuapp.com";
+const API_URL = "https://ztm-nasa-1309.onrender.com";
 
 async function httpGetPlanets() {
   // TODO: Once API is ready.
